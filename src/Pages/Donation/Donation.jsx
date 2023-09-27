@@ -40,13 +40,18 @@ console.log(isShow)
                         <DonationCard key={card.id } card={card} ></DonationCard> ))
                         :
                         donation.slice(0,4).map((card) => (
-                            <DonationCard key={card.id} phone={card}></DonationCard>
+                            <DonationCard key={card.id} card={card}></DonationCard>
                         ))
                     }
 
                 </div>
 
-                <button onClick={() => setIsShow(!isShow)} className="px-5 my-20 bg-green-200 block mx-auto rounded-lg">See All</button>
+               {
+
+                donation.length > 4  &&  <button onClick={() => setIsShow(!isShow)} className={`px-5 my-20 bg-[#009444] text-white text-lg font-medium block mx-auto rounded-lg  
+                ${isShow  &&  "hidden"} `}>See All</button>
+
+               }
 
               </div> }
         </div>

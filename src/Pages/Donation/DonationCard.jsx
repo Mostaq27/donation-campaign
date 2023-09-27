@@ -19,7 +19,7 @@ const DonationCard = ({ card }) => {
                     />
                 </div>
                 <div className="p-6">
-                    <h6 className="mb-4 block font-sans text-base font-semibold capitalize leading-relaxed tracking-normal  antialiased w-[15vh] p-2 rounded-lg" style={{backgroundColor:category_bg,color:text_color}}>
+                    <h6 className="mb-4 block font-sans text-xl font-semibold capitalize leading-relaxed tracking-normal  antialiased w-[15vh] p-2 rounded-lg" style={{backgroundColor:category_bg,color:text_color}}>
                         {category}
                     </h6>
                     <h4 className="mb-2 block font-sans text-2xl font-semibold leading-snug tracking-normal text-black antialiased">

@@ -49,7 +49,7 @@ const CategoryCard = ({ card }) => {
                 <div className="opacity-25 h-[100px] bg-gray-900 w-[1320px] absolute right-0 bottom-[185px] rounded-xl">      </div>
                 <div className=" relative bottom-32 right-[-40px]">
                     <button onClick={handleAddToDonation}
-                        className="middle none center rounded-lg py-3 px-6 font-sans text-xs font-bold uppercase text-white shadow-md shadow-pink-500/20 transition-all hover:shadow-lg hover:shadow-pink-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+                        className="capitalize middle none center rounded-lg py-3 px-6 font-sans text-xs font-bold text-white shadow-md shadow-pink-500/20 transition-all hover:shadow-lg hover:shadow-pink-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
                         data-ripple-light="true" style={{ backgroundColor: text_color }}> Donate ${price}</button>
                     
                 </div>

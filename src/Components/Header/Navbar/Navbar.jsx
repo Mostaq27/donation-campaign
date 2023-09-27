@@ -3,7 +3,7 @@ import Logo from "./logo";
 const Navbar = () => {
     return (
         <div>
-            <nav className="flex justify-between items-center p-2 mx-10 ">
+            <nav className="flex justify-between items-center p-2 mx-20 ">
                 <Logo></Logo>
                 <ul className="flex gap-5">
                     <li>

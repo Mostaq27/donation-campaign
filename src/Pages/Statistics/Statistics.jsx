@@ -21,13 +21,13 @@ const Statistics = () => {
     return (
 
 
-        <div>
+        <div className="w-[1100px] h-[980px] ml-48">
 
 
             <VictoryPie
                 width={300} 
                 height={200}
-                colorScale={["tomato", "orange"]}
+                colorScale={["#00C49F", "#FF444A"]}
                 data={[
                     { x: "Your Donation", y: countLength },
                     { x: "Total Donation", y: 12 },

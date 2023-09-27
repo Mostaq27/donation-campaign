@@ -58,7 +58,7 @@ const CategoryCard = ({ card }) => {
                 <h2 className="mb-2 block font-sans text-4xl font-bold leading-[1.3] tracking-normal  antialiased text-black">
                     {title}
                 </h2>
-                <p className="block font-sans text-base font-normal leading-relaxed text-gray-700 antialiased">
+                <p className="block font-sans text-base font-normal leading-relaxed text-gray-700 antialiased pb-14">
                     {description}
                 </p>
 

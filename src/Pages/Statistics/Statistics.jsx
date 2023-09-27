@@ -21,12 +21,12 @@ const Statistics = () => {
     return (
 
 
-        <div className="">
+        <div className="flex">
 
 
             <VictoryPie
                 width={400} 
-                height={200}
+                height={150}
                 colorScale={["#00C49F", "#FF444A"]}
                 data={[
                     { x: "Your Donation", y: countLength },

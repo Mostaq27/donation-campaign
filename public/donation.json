@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/gRdS4Pr/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "For children to grow up healthy and happy, they need access to clean water, proper sanitation, and good hygiene. Water and sanitation are basic human rights, that we are working to uphold for every child though our water, sanitation and hygiene (WASH) programmes",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/ByMG0JF/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "category_bg": "#FF444933",
+    "card_bg": "#FF444924",
+    "text_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/XJwkcSj/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "category_bg": "#4FC23F33",
+    "card_bg": "#4FC23F26",
+    "text_color": "#79C23F",
+    "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too.",
+    "price": 155
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/JkqNHHz/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "category_bg": "#F87148CC",
+    "card_bg": "#F8714826",
+    "text_color": "#F87147",
+    "description": "Donating to the needy is a great way to improve the conditions in your neighborhood or community. Donating food to the worthy people or organizations helps counter poverty, hunger and at the same time, it can improve harmony, friendliness, and trust among residents.",
+    "price": 179
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/JkqNHHz/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "category_bg": "#F87148CC",
+    "card_bg": "#F8714826",
+    "text_color": "#F87147",
+    "description": "Donating to the needy is a great way to improve the conditions in your neighborhood or community. Donating food to the worthy people or organizations helps counter poverty, hunger and at the same time, it can improve harmony, friendliness, and trust among residents.",
+    "price": 450
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/XJwkcSj/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "category_bg": "#4FC23F33",
+    "card_bg": "#4FC23F26",
+    "text_color": "#79C23F",
+    "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too.",
+    "price": 140
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/ByMG0JF/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "category_bg": "#FF444933",
+    "card_bg": "#FF444924",
+    "text_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 130
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/gRdS4Pr/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "For children to grow up healthy and happy, they need access to clean water, proper sanitation, and good hygiene. Water and sanitation are basic human rights, that we are working to uphold for every child though our water, sanitation and hygiene (WASH) programmes",
+    "price": 160
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/gRdS4Pr/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "category_bg": "#0052FF33",
+    "card_bg": "#0052FF26",
+    "text_color": "#0052FF",
+    "description": "For children to grow up healthy and happy, they need access to clean water, proper sanitation, and good hygiene. Water and sanitation are basic human rights, that we are working to uphold for every child though our water, sanitation and hygiene (WASH) programmes",
+    "price": 250
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/ByMG0JF/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "category_bg": "#FF444933",
+    "card_bg": "#FF444924",
+    "text_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 255
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/XJwkcSj/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "category_bg": "#4FC23F33",
+    "card_bg": "#4FC23F26",
+    "text_color": "#79C23F",
+    "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too.",
+    "price": 279
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/JkqNHHz/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "category_bg": "#F87148CC",
+    "card_bg": "#F8714826",
+    "text_color": "#F87147",
+    "description": "Donating to the needy is a great way to improve the conditions in your neighborhood or community. Donating food to the worthy people or organizations helps counter poverty, hunger and at the same time, it can improve harmony, friendliness, and trust among residents.",
+    "price": 285
+  }
+]
